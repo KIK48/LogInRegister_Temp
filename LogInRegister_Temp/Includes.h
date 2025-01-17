@@ -60,4 +60,4 @@ using namespace std;
 
 #endif
 
-//MessageBox::Show("Table created (if it didn't exist)."); TO create a little message
+//MessageBox::Show("Table created (if it didn't exist)."); To create a little message
